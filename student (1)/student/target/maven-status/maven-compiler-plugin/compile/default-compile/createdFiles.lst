@@ -1,0 +1,6 @@
+Repository\StudentRepository.class
+Model\Student.class
+controller\StudentResource.class
+Service\StudentService.class
+com\example\student\StudentApplication.class
+com\example\student\StudentNotFound.class
